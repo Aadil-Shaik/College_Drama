@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/cloud.html"
+  to = "/hosting.html"
   status = 200
